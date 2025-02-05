@@ -26,7 +26,7 @@
         "sccount": "0",
         "exit_flag": true,
         "Maintenance": "s",
-        "mktonf": "1",
+        "mktonf": "0",
         "CustomNative": "1",
         "animation_btn": false,
         "NativeAd_Btn_color": "#88aa00",
